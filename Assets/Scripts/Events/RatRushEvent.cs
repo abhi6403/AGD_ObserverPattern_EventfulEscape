@@ -15,6 +15,7 @@ public class RatRushEvent : MonoBehaviour
         {
             onRatRush();
             GameService.Instance.GetSoundView().PlaySoundEffects(soundToPlay);
+            EventService.Instance.OnRatRush.InvokeEvent();
             GetComponent<Collider>().enabled = false;
         }
     }
