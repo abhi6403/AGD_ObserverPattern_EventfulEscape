@@ -39,6 +39,14 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:/games/SG1\Eventful Escape.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\games\SG1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.36f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath E:\Outscal\ObserverPattern\AGD_ObserverPattern_EventfulEscape -debugCodeOptimization" />
@@ -94,7 +102,7 @@
       <workItem from="1739774817064" duration="4030000" />
       <workItem from="1739786099664" duration="2594000" />
       <workItem from="1739798090494" duration="2653000" />
-      <workItem from="1739858426611" duration="5931000" />
+      <workItem from="1739858426611" duration="6534000" />
     </task>
     <servers />
   </component>
